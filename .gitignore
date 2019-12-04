@@ -1,0 +1,11 @@
+proj
+.DS_Store
+__pycache__
+*~
+*.swp
+*.swo
+/articles/*
+/plane_text/*
+/analyze/*
+/postgress/
+/debuging/
